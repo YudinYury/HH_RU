@@ -1,0 +1,10 @@
+.idea
+myenv
+__pycache__
+config.py
+*.txt
+*.json
+*.log
+*.7z
+*.rtf
+*.bat
